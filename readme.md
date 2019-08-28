@@ -68,3 +68,4 @@ Let's write this method together and test it out (in pry)!
 - Please Slack DM me:
 
   In your own words, please describe to me what a class is and what an instance is. Feel free to use examples, but this should be written mostly in plain English (as opposed to code).
+  `@Kat Scriver`
