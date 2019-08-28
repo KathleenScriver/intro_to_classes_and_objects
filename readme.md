@@ -6,23 +6,26 @@
 - Illustrate how to build a class and instantiate an object.
 - Describe how to give instances attributes and methods.
 
-## Warmup
+### Warmup
 - On your own, google what is a Ruby Class (5 min)
 - Discuss with your partner what you found. (2 min)
 - Discuss with class. (2 min)
 
+
 ### Classes
 - Way to bundle/organize code
-- Acts like a blueprint or cookie cutter.
+- Acts like a blueprint or cookie cutter or `insert another fun analogy here`.
 
 **Q:** How do we build a class?
 
 ##### _Let's do it!_
 
 We'll need:
+```
   - A file
-  - Some keywords (_class_, _end_)
+  - Some keywords (class, end)
   - Class name syntax for one word and many words
+```
 
 Technically, that's a class!
 
