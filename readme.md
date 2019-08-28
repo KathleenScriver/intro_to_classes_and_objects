@@ -16,7 +16,7 @@
 - Way to bundle/organize code
 - Acts like a blueprint or cookie cutter or `insert another fun analogy here`.
 
-**Q:** How do we build a class?
+`Q: How do we build a class?`
 
 ##### _Let's do it!_
 
@@ -52,9 +52,9 @@ You're used to writing methods out in the wild, but now we want to contain them 
 
 _Methods inside of a class will only be available to instances of that class._
 
-**Q:** When does our `initialize` method run? **_Hint_**: we don't call it directly.
+`Q: When does our initialize method run? **_Hint_**: we don't call it directly.`
 
-**Q:** What does the `@` in front of our variable indicate?
+`Q: What does the @ in front of our variable indicate?`
 
 Let's take a look at our instances now to see their attributes.
 
