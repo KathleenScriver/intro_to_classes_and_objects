@@ -10,20 +10,17 @@
 - On your own, google what is a Ruby Class (5 min)
 - Discuss with your partner what you found. (2 min)
 - Discuss with class. (2 min)
-&nbsp
-&nbsp
-&nbsp
+
 
 ### Classes
 - Way to bundle/organize code
 - Acts like a blueprint or cookie cutter or `insert another fun analogy here`.
 
-&nbsp
+
 
 `Q: How do we build a class?`
 
 
-&nbsp
 
 
 ##### _Let's do it!_
@@ -39,9 +36,7 @@ Technically, that's a class!
 
 This doesn't do much for us right now though. So let's explore making an instance of this class.
 
-&nbsp
-&nbsp
-&nbsp
+
 
 
 ### Instances (Objects)
